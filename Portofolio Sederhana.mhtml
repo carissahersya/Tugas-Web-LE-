@@ -1,0 +1,105 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///home/chronos/u-d361242dea7416ba9290764dd39a08edb9b68e1d/MyFiles/Camera/BisnisCacak.html#
+Subject: Portofolio Sederhana
+Date: Tue, 11 Mar 2025 20:18:15 +0700
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--JmNEnhn5cs8RHGXas42ApwbK5Vf2RRathkUmv8Tw3S----"
+
+
+------MultipartBoundary--JmNEnhn5cs8RHGXas42ApwbK5Vf2RRathkUmv8Tw3S----
+Content-Type: text/html
+Content-ID: <frame-A56FFF2682F80D559EE334627B1D56C5@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///home/chronos/u-d361242dea7416ba9290764dd39a08edb9b68e1d/MyFiles/Camera/BisnisCacak.html#
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-43198a6d-3e91-435d-98b7-d94b57b647d8@mhtml.blink" />
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>Portofolio Sederhana</title>
+   =20
+</head>
+<body>
+    <header>
+        <h1>carissa nisa hersya </h1>
+        <h2>ice cream shop </h2>
+    </header>
+
+    <nav>
+        <a href=3D"file:///home/chronos/u-d361242dea7416ba9290764dd39a08edb=
+9b68e1d/MyFiles/Camera/BisnisCacak.html#">Tentang Saya</a>
+        <a href=3D"file:///home/chronos/u-d361242dea7416ba9290764dd39a08edb=
+9b68e1d/MyFiles/Camera/BisnisCacak.html#">Proyek</a>
+        <a href=3D"file:///home/chronos/u-d361242dea7416ba9290764dd39a08edb=
+9b68e1d/MyFiles/Camera/BisnisCacak.html#">Kontak</a>
+    </nav>
+
+    <section>
+        <h2>ice cream</h2>
+        <p>Bisnis es krim adalah usaha yang berfokus pada produksi, distrib=
+usi, dan penjualan es krim dalam berbagai bentuk dan rasa. Bisnis ini memil=
+iki pasar yang luas karena es krim merupakan produk yang disukai oleh berba=
+gai kalangan, mulai dari anak-anak hingga orang dewasa. Model bisnisnya ber=
+agam, mulai dari toko es krim tradisional, truk es krim, franchise, hingga =
+penjualan online dan layanan katering untuk acara tertentu. Selain itu, ino=
+vasi dalam varian rasa, bahan baku, serta konsep pemasaran yang menarik men=
+jadi faktor penting dalam keberhasilan bisnis ini. Dengan tren gaya hidup s=
+ehat, banyak pelaku usaha juga mulai menawarkan es krim rendah kalori, beba=
+s gula, atau berbahan dasar nabati. Kesuksesan bisnis es krim sangat dipeng=
+aruhi oleh kualitas produk, strategi pemasaran, lokasi penjualan, serta pen=
+galaman pelanggan yang menyenangkan.</p>
+
+        <h2>Proyek</h2>
+        <div class=3D"project">
+            <img src=3D"file:///home/chronos/u-d361242dea7416ba9290764dd39a=
+08edb9b68e1d/MyFiles/Camera/BisnisCacak.html" alt=3D"Proyek 1">
+            <h3>Judul Proyek 1</h3>
+            <p>Deskripsi singkat tentang proyek 1.</p>
+        </div>
+
+        <h2>Kontak</h2>
+        <p>Email: carissa@email.com</p>
+        <p>Telepon: 081234567890</p>
+    </section>
+
+    <footer>
+        <p>=C2=A9 2023 Nama Anda</p>
+    </footer>
+
+
+</body></html>
+------MultipartBoundary--JmNEnhn5cs8RHGXas42ApwbK5Vf2RRathkUmv8Tw3S----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-43198a6d-3e91-435d-98b7-d94b57b647d8@mhtml.blink
+
+@charset "utf-8";
+
+body { font-family: sans-serif; margin: 0px; padding: 0px; background-color=
+: rgb(240, 240, 240); color: rgb(51, 51, 51); }
+
+header { background-color: rgb(230, 230, 250); color: rgb(224, 17, 95); pad=
+ding: 20px; text-align: center; }
+
+h1 { margin-bottom: 10px; }
+
+nav { background-color: rgb(238, 238, 238); padding: 10px; text-align: cent=
+er; }
+
+nav a { display: inline-block; margin: 0px 10px; padding: 5px 10px; text-de=
+coration: none; color: rgb(51, 51, 51); }
+
+section { padding: 20px; }
+
+.project { margin-bottom: 20px; border: 1px solid rgb(221, 221, 221); paddi=
+ng: 10px; }
+
+.project img { max-width: 100%; height: auto; }
+
+footer { background-color: rgb(230, 230, 250); color: rgb(224, 17, 95); pad=
+ding: 10px; text-align: center; }
+------MultipartBoundary--JmNEnhn5cs8RHGXas42ApwbK5Vf2RRathkUmv8Tw3S------
